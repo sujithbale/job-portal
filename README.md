@@ -25,16 +25,7 @@
 - ✅ **Form Validation** - Client-side validation with React Hook Form and Zod
 - 🔄 **State Management** - Clean and efficient state management
 
-## 🖥️ Screenshots
 
-<p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Homepage" alt="Homepage" width="400">
-  <img src="https://via.placeholder.com/400x200?text=Job+Listings" alt="Job Listings" width="400">
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Job+Details" alt="Job Details" width="400">
-  <img src="https://via.placeholder.com/400x200?text=Company+Dashboard" alt="Company Dashboard" width="400">
-</p>
 
 ## 🛠️ Tech Stack
 
