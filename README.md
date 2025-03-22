@@ -160,6 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/job-board-platform](https://v0-job-board-platform-phi.vercel.app/)
+Project Link: [Live Preview](https://v0-job-board-platform-phi.vercel.app/)
 
 
